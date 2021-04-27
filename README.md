@@ -1,2 +1,6 @@
-# frontend-mentor-challenge-07
-social-proof-section-master
+# Frontend Mentor - Social proof section
+
+![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
